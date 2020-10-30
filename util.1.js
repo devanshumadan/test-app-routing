@@ -1,1 +1,1 @@
-window.location.href = "mirconsitepass://";
+window.location.href = "micronsitepass://";
